@@ -888,7 +888,9 @@
       "values": [
         "VP8",
         "H264",
-        "RAW"
+        "RAW",
+        "PCMA",
+        "TELEPHONE_EVENT"
       ],
       "name": "VideoCodec",
       "doc": "Codec used for transmission of video."
